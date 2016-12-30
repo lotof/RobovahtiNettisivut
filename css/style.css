@@ -1,0 +1,172 @@
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+
+body div {
+	padding: 5% 15% 5% 15%;
+}
+
+body h1 {
+	 	display: inline-block;
+		padding: 0px 10px 0px 10px;
+		margin-bottom: 1em;
+		color: #ececec;
+		background-color: #f22613;
+    font-family: "Gotham Rounded";
+    font-weight: 500;
+    font-size: 4.5em;
+}
+
+#logo {
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+body h2 {
+	margin-bottom: 2.25em;
+	font-family: "Work Sans";
+	font-weight: 900;
+	font-style: italic;;
+	font-size: 2em;
+	max-width: 500px;
+}
+
+body h3 {
+	margin-bottom: 0.3em;
+	font-family: "Work Sans";
+	font-weight: 400;
+	font-size: 1.7em;
+	max-width: 500px;
+}
+
+body h4 {
+	margin-bottom: 0.3em;
+	font-family: "Work Sans";
+	font-weight: 400;
+	font-style: italic;
+	font-size: 1.4em;
+	max-width: 500px;
+}
+
+body p {
+    margin-bottom: 2.25em;
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 1.4em;
+		max-width: 500px;
+}
+
+body ul li {
+	font-family: "Work Sans";
+	font-weight: 400;
+	font-size: 1.4em;
+}
+
+body i {
+	font-style: italic;
+}
+
+.dark {
+    color: #22313F;
+}
+
+.light {
+    color: #ececec;
+}
+
+.lightboxdark {
+		display: inline-block;
+		color: #22313F;
+		background-color: #ececec;
+		padding: 5px 10px 5px 10px;
+}
+
+.darkboxlight {
+		display: inline-block;
+		color: #ececec;
+		background-color: #22313F;
+		padding: 5px 10px 5px 10px;
+}
+
+.lightboxred {
+		display: inline-block;
+		color: #f22613;
+		background-color: #ececec;
+		padding: 5px 10px 5px 10px;
+}
+
+.contrast {
+    color: #f22613;
+}
+
+.page {
+
+}
+
+#home {
+	background-color: #ececec;
+}
+
+#columns {
+	padding: 0;
+
+}
+
+#halyttaa {
+	top: 0px;
+	padding: 0% 5% 0% 0%;
+	width: 28%;
+	min-width: 300px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#varmat {
+	top: 0px;
+	padding: 0% 5% 0% 0%;
+	width: 28%;
+	min-width: 300px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#helppokayttoinen {
+	top: 0px;
+	padding: 0% 5% 0% 0%;
+	width: 28%;
+	min-width: 300px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+
+#ontherobot {
+	padding: 0px;
+	border: 0px;
+	margin: 0px;
+}
+
+#wholerobot {
+	padding: 0px;
+	border: 0px;
+	margin: 0px;
+}
+
+
+#specs {
+	background-color: #22313F;
+	-webkit-box-shadow: 0px 10px 19px -3px rgba(0,0,0,0.49);
+-moz-box-shadow: 0px 10px 19px -3px rgba(0,0,0,0.49);
+box-shadow: 0px 10px 19px -3px rgba(0,0,0,0.49);
+}
+
+#contact {
+	background-color: #ececec;
+
+}
+
+#about {
+	background-color: #f22613;
+	height: 300px;
+}
