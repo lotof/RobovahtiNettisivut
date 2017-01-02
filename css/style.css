@@ -109,35 +109,33 @@ body i {
 
 #columns {
 	padding: 0;
-
+	width: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;;
+	flex-flow: row nowrap;
 }
 
+@media screen and (max-width: 80rem) {
+  #columns {
+    flex-direction: column;
+  }
+}
+
+
 #halyttaa {
-	top: 0px;
-	padding: 0% 5% 0% 0%;
-	width: 28%;
-	min-width: 300px;
-	display: inline-block;
-	vertical-align: top;
+	padding: 0;
+	flex-basis: 20rem;
 }
 
 #varmat {
-	top: 0px;
-	padding: 0% 5% 0% 0%;
-	width: 28%;
-	min-width: 300px;
-	display: inline-block;
-	vertical-align: top;
+	padding: 0;
+	flex-basis: 20rem;
 }
 
 #helppokayttoinen {
-	top: 0px;
-	padding: 0% 5% 0% 0%;
-	width: 28%;
-	min-width: 300px;
-	display: inline-block;
-	vertical-align: top;
-
+	padding: 0;
+	flex-basis: 20rem;
 }
 
 
