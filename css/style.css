@@ -128,7 +128,7 @@ body i {
 }
 
 #columns h4 {
-	margin-bottom: 0.5em;
+	margin-bottom: 1em;
 }
 
 @media screen and (max-width: 80rem) {
