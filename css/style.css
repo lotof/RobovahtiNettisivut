@@ -127,6 +127,10 @@ body i {
 	flex-flow: row nowrap;
 }
 
+#columns h4 {
+	margin-bottom: 0.5em;
+}
+
 @media screen and (max-width: 80rem) {
   #columns {
     flex-direction: column;
